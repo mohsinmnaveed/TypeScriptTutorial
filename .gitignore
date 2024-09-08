@@ -1,0 +1,5 @@
+# ignore module folder
+node_modules/
+
+#ignore content folder
+content/
